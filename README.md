@@ -9,5 +9,5 @@ Dnake CocoaPods specs.
 ```
 # Master仓库不要遗漏
 source 'https://github.com/CocoaPods/Specs.git'
-source 'https://github.com/dnakeTeam/dnake-specs.git'
+source 'https://github.com/dnakeyun/dnake-specs.git'
 ```
