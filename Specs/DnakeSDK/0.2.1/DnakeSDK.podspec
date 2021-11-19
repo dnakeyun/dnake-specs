@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = "http://192.168.11.238/kf3/ios/dnakesdk-longguang."
   s.frameworks = ["Foundation", "WebKit", "MapKit", "CoreData", "AVFoundation", "Photos", "CoreLocation", "LocalAuthentication", "AudioToolbox", "CoreMedia"]
   s.libraries = ["c++", "z"]
-  s.source = { :http => 'https://ishanghomeapp.ishanghome.com/ios/DnakeSDK/0.2.0/longGuang/DnakeSDK.zip' }
+  s.source = { :http => 'https://ishanghomeapp.ishanghome.com/ios/DnakeSDK/0.2.1/longGuang/DnakeSDK.zip' }
 
   s.pod_target_xcconfig = {
         'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
