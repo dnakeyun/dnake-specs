@@ -10,4 +10,6 @@ Dnake CocoaPods specs.
 # Master仓库不要遗漏
 source 'https://github.com/CocoaPods/Specs.git'
 source 'https://github.com/dnakeyun/dnake-specs.git'
+# 导入对讲SDK
+pod 'DNKTalkSDK'
 ```
